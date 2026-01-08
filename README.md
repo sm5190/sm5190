@@ -6,7 +6,7 @@ My work focuses on reliability, performance, and clean system design at scale.
 🔗 **Connect**
 - [LinkedIn](https://www.linkedin.com/in/shutonu-mitra/)
 - [Portfolio](https://sm5190.github.io/)
-- [Resume](https://github.com/sm5190/Resume/blob/main/Resume_Summer.pdf)
+- [Resume](https://github.com/sm5190/Resume/blob/main/Resume_SWE2YOE_v4.pdf)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=zTwiYZoAAAAJ)
 
 ---
