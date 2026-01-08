@@ -27,7 +27,7 @@ My work focuses on reliability, performance, and clean system design at scale.
 
 ### 🚀 Notable Projects 
 
-#### [**Job-Application AI Copilot**](https://github.com/sm5190/Job-Application-AI-Copilot)
+#### [**Job-Application AI Copilot**](https://github.com/sm5190/Job-Copilot)
 *TypeScript | LangChain | Serverless | LLMs*  
 - Built an AI agent to assist with job applications and resume customization  
 - Designed multi-agent pipelines and scalable backend services for feedback generation  
