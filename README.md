@@ -33,6 +33,12 @@ My work focuses on reliability, performance, and clean system design at scale.
 - Designed multi-agent pipelines and scalable backend services for feedback generation  
 - Focused on reliability, prompt versioning, and production deployment
 
+#### [**Sportsbook Odds Scraper & Ingestion System**](https://github.com/sm5190/sportsbook-scraper)
+*Python | FastAPI | HTTPX | Data Normalization | Docker*  
+- Built a resilient scraper to fetch real-time lines and player props from FanDuel, DraftKings, and PrizePicks
+- Designed a normalized odds schema to unify heterogeneous sportsbook APIs into a single event market selection model  
+- Implemented rate-limiting, retries, freshness checks, and provider health tracking for production reliability
+
 #### [**Paper-to-Code**](https://github.com/sm5190/Paper_to_Code)
 *TypeScript | Gemini API*  
 - Built a system that converts research papers into executable algorithm implementations  
